@@ -10,7 +10,7 @@ Backend Developer
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derfly404&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=derfly404&theme=dark&show_icons=true)
 
 ---
 
