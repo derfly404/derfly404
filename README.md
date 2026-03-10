@@ -8,7 +8,7 @@ Backend Developer
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=derfly404&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derfly404)](https://github.com/derfly404/github-readme-stats)
 
 ---
 
