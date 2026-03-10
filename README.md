@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 <h1 align="center">Hi 👋 I'm QuyetThang</h1>
 
 <p align="center">
@@ -7,7 +8,9 @@ Backend Developer
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derfly404&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=derfly404&show_icons=true&theme=tokyonight)
+
+---
 
 ### 📫 Contact
 
